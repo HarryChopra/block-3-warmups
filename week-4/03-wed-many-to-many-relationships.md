@@ -7,7 +7,7 @@ The goal of this warmup is to continue to familiarize yourself with many-to-many
   * You can use an online tool or whiteboard
 
 3. STRETCH: Write out SQL (DDL) schema for your ERDs
-4. EXTRA STRETCH: Write out DQL seed data for your ERDs
+4. EXTRA STRETCH: Write out SQL (DML) seed data for your ERDs
 
 ## Resources
 
