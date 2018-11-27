@@ -1,6 +1,6 @@
 # Warmup: Writing User Stories
 
-Get together with your group, read thee following articles, and write at least 10 user stories for you project!
+Get together with your group, read the following articles, and write at least 10 user stories for you project!
 
 * [Writing User Stories](https://www.yodiz.com/blog/writing-user-stories-examples-and-templates-in-agile-methodologies/)
 * [10 Tips for Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/?doing_wp_cron=1543247610.4944980144500732421875)
